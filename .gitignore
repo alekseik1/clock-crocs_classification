@@ -428,3 +428,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Данные
+data/
